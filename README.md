@@ -30,3 +30,6 @@ test_LD(
   iterations = 5000,
   verbose = interactive()
 )
+
+#I have encountered an error
+Error in .check_gp_file_name(inputFile) : 'inputFile' not found 
